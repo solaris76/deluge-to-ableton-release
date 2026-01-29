@@ -15,7 +15,7 @@ You get a **desktop app** (Mac) with two tabs—one for each direction—plus fi
 
 ## Download and install
 
-1. Go to [Releases](https://github.com/solaris76/deluge-to-ableton/releases) and download the latest **DMG** for your Mac (Apple Silicon or Intel).
+1. Go to [Releases](https://github.com/solaris76/deluge-to-ableton-release/releases) and download the latest **DMG** for your Mac (Apple Silicon or Intel).
 2. Open the DMG and drag **Deluge ↔ Ableton** into **Applications**.
 3. First launch: if macOS says the app is from an "unidentified developer," right‑click the app → **Open** → **Open** again.
 
