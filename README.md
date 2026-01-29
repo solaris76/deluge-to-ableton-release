@@ -83,17 +83,14 @@ Keep Ableton samples in the project’s `Samples` folder. For Deluge songs, use 
 **Clips or timing seem wrong**  
 Check tempo in the *source* project. For warped clips, consolidate at project tempo before converting to Deluge.
 
-**"MIDI can’t convert to Kit" on Deluge**  
-The Deluge won’t change a clip with notes into a Kit. Workaround: create an empty Kit track, then copy/paste the notes.
-
 **Volume too loud on Deluge**  
-Deluge outputs can distort. Lower track levels in the Deluge after conversion if needed.
+Deluge outputs can distort. Lower track levels in the Deluge after conversion if needed. Export sets the volume level on the Deluge track low to prevent distortion from fully normalised audio.
 
 ---
 
 ## System requirements
 
-- **Mac** (macOS 10.12 or later), Apple Silicon or Intel.  
+- **Mac** (macOS 10.12 or later), Apple Silicon (Intel later).  
 - **Windows** support is planned for a later release.
 
 ---
@@ -109,5 +106,3 @@ If the app is useful to you, you can [support development via PayPal](https://pa
 This converter uses Ableton’s ALSExportKit; see `ALSExportKit-1.8/ALSExport_License_v2.0.pdf` for its terms.
 
 ---
-
-*For build instructions and developer documentation, see the `docs/` folder and the project wiki.*
