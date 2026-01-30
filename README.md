@@ -44,7 +44,7 @@ Song name is optional; it’s guessed from the filename if you leave it blank.
 |---|------------------|------------------|
 | **Tempo** | Yes | Yes |
 | **Audio clips** | Yes | Yes |
-| **MIDI notes** | Yes | Yes |
+| **MIDI, Kit Synth notes** | Yes | Yes |
 | **Session view / scenes** | Yes | Yes |
 | **Arrangement / timeline** | Yes | Yes |
 | **Track names & colors** | Yes | Yes |
@@ -90,7 +90,7 @@ Deluge outputs can distort. Lower track levels in the Deluge after conversion if
 
 ## System requirements
 
-- **Mac** (macOS 10.12 or later), Apple Silicon (Intel later).  
+- **Mac** (macOS 10.12 or later), Apple Silicon & Intel versions
 - **Windows** support is planned for a later release.
 
 ---
