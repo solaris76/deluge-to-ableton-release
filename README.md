@@ -6,7 +6,7 @@ Convert songs between **Synthstrom Deluge** and **Ableton Live** — in both dir
 
 ## What it does
 
-- **Deluge → Ableton:** Turn a Deluge song (`.XML`) into an Ableton Live Set (`.als`). Your audio tracks, MIDI, clips, and tempo come across.
+- **Deluge → Ableton:** Turn a Deluge song (`.XML`) into an Ableton Live Set (`.als`). Your audio tracks, MIDI, synth and kit clips, and tempo come across.
 - **Ableton → Deluge:** Turn an Ableton Live Set into a Deluge song. Audio and MIDI clips, arrangement, and tempo are converted for the Deluge.
 
 You get a **desktop app** (Mac) with two tabs—one for each direction—plus file pickers and one‑click conversion.
