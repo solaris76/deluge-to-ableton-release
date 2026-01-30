@@ -44,7 +44,7 @@ Song name is optional; it’s guessed from the filename if you leave it blank.
 |---|------------------|------------------|
 | **Tempo** | Yes | Yes |
 | **Audio clips** | Yes | Yes |
-| **MIDI, Kit & Synth notes** | Yes | Yes |
+| **MIDI, Kit & Synth notes** | Yes (To MIDI) | Yes (To MIDI) |
 | **Session view / scenes** | Yes | Yes |
 | **Arrangement / timeline** | Yes | Yes |
 | **Track names & colors** | Yes | Yes |
